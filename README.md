@@ -1,6 +1,6 @@
 # Table
 
-**Table**This project implements a dynamic table with functionality for pagination, search, sorting, selection of displayed items, and the ability to delete records. Data is stored in local storage (`localStorage`) for convenient management. The application also supports a dark theme, allowing users to switch between light and dark modes for a comfortable viewing experience.
+**Table** is project implements a dynamic table with functionality for pagination, search, sorting, selection of displayed items, and the ability to delete records. Data is stored in local storage (`localStorage`) for convenient management. The application also supports a dark theme, allowing users to switch between light and dark modes for a comfortable viewing experience.
 
 ## Technology Stack
 
